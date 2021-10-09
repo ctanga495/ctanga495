@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charan Tanga!
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning
 - 🌱 I’m currently learning C# - My first programming language
 
 <!---
